@@ -1,21 +1,13 @@
 <div align="center">
 
-<!-- ═══════════════════════ 3D IMMERSIVE WORDMARK (DUAL THEME) ═══════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d-light.svg" />
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.svg" width="100%" alt="The 3D KKM121 Banner" />
-</picture>
+<!-- ═══════════════════════ 3D IMMERSIVE WORDMARK ═══════════════════════ -->
+<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.svg" width="100%" alt="The 3D KKM121 Banner" />
 
 <br/>
 
-<!-- ═══════════════════════ TYPING ANIMATION (DUAL THEME) ═══════════════════════ -->
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/kkm121">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=750&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" alt="Typing animation" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" alt="Typing animation" />
 </a>
 
 <br/>
@@ -26,7 +18,7 @@
   <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" alt="LinkedIn" /></a>
 </p>
 
-<!-- ═══════════════════════ VISUAL SCENE ═══════════════════════ -->
+<!-- ═══════════════════════ VISUAL SCENE (DIRECTLY VISIBLE) ═══════════════════════ -->
 <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/snow.svg" width="100%" alt="Winter horizon vector landscape" />
 
 </div>
@@ -75,37 +67,25 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ TECH STACK & ARSENAL (DUAL THEME) ═══════════════════════ -->
+<!-- ═══════════════════════ TECH STACK & ARSENAL ═══════════════════════ -->
 ## Technology Stack
 
 <div align="center">
 
 ### Languages & Core
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,bash,html,css&perline=9&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,bash,html,css&perline=9&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,bash,html,css&perline=9&theme=dark" alt="Languages: Python, Java, C++, C, JavaScript, TypeScript, Bash, HTML, CSS" />
-</picture>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,bash,html,css&perline=9&theme=dark" alt="Languages: Python, Java, C++, C, JavaScript, TypeScript, Bash, HTML, CSS" />
 
-<br/><br/>
+<br/>
 
 ### Frontend & Web Frameworks
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&perline=6&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&perline=6&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&perline=6&theme=dark" alt="Web: React, Next.js, Node.js, Tailwind CSS" />
-</picture>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&perline=6&theme=dark" alt="Web: React, Next.js, Node.js, Tailwind CSS" />
 
-<br/><br/>
+<br/>
 
 ### AI, Machine Learning & Vision
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&perline=6&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&perline=6&theme=light" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&perline=6&theme=dark" alt="AI/ML: PyTorch, TensorFlow, OpenCV, scikit-learn, Anaconda" />
-</picture>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&perline=6&theme=dark" alt="AI/ML: PyTorch, TensorFlow, OpenCV, scikit-learn, Anaconda" />
 
-<br/><br/>
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Reinforcement_Learning-PPO-38bdf8?style=for-the-badge&labelColor=0a0f1e" alt="RL PPO" />
@@ -118,26 +98,18 @@ class MuthuKumaran:
 <br/>
 
 ### Databases & Storage
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6&theme=light" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6&theme=dark" alt="Databases: PostgreSQL, MySQL, SQLite, MongoDB" />
-</picture>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6&theme=dark" alt="Databases: PostgreSQL, MySQL, SQLite, MongoDB" />
 
-<br/><br/>
+<br/>
 
 ### DevOps, Tooling & Environment
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,fastapi,postman,vscode&perline=8&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,fastapi,postman,vscode&perline=8&theme=light" />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,fastapi,postman,vscode&perline=8&theme=dark" alt="DevOps: Docker, Git, GitHub, Linux, Ubuntu, FastAPI, Postman, VS Code" />
-</picture>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,fastapi,postman,vscode&perline=8&theme=dark" alt="DevOps: Docker, Git, GitHub, Linux, Ubuntu, FastAPI, Postman, VS Code" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (DUAL THEME SNAKE) ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS (LIGHT & DARK DUAL THEME SNAKE) ═══════════════════════ -->
 ## Contributions
 
 <div align="center">
@@ -152,42 +124,26 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ ANALYTICS & TELEMETRY (DUAL THEME) ═══════════════════════ -->
+<!-- ═══════════════════════ ANALYTICS & TELEMETRY ═══════════════════════ -->
 ## Activity & Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true&hide_rank=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=default&border_color=0284c7&title_color=0284c7&icon_color=0369a1&text_color=0f172a&include_all_commits=true&count_private=true&hide_rank=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true&hide_rank=true" height="185" alt="GitHub Stats" />
-  </picture>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true&hide_rank=true" height="185" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kkm121&theme=default&border=0284c7&ring=0284c7&fire=f59e0b&currStreakLabel=0284c7" />
-    <img src="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" height="185" alt="Streak Stats" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" height="185" alt="Streak Stats" />
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=default&border_color=0284c7&title_color=0284c7&text_color=0f172a&langs_count=6" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=6" height="185" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=6" height="185" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=tokyo-night&bg_color=0a0f1e&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=0284c7&hide_border=false&border_color=38bdf8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=github-light&color=0284c7&line=0369a1&point=0284c7&area=true&area_color=e0f2fe&hide_border=false&border_color=0284c7" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=tokyo-night&bg_color=0a0f1e&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=0284c7&hide_border=false&border_color=38bdf8" width="95%" alt="Activity Graph" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=tokyo-night&bg_color=0a0f1e&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=0284c7&hide_border=false&border_color=38bdf8" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ CONNECT (DUAL THEME) ═══════════════════════ -->
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 <div align="center">
 
 ## Connect
@@ -199,10 +155,6 @@ class MuthuKumaran:
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:818cf8,100:0a0f1e&height=120&section=footer&fontSize=0&animation=twinkling" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0284c7,100:f0f9ff&height=120&section=footer&fontSize=0&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:818cf8,100:0a0f1e&height=120&section=footer&fontSize=0&animation=twinkling" width="100%" alt="Footer wave" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:818cf8,100:0a0f1e&height=120&section=footer&fontSize=0&animation=twinkling" width="100%" alt="Footer wave" />
 
 </div>
