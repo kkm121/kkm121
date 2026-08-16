@@ -1,167 +1,175 @@
-<!-- âââââââââââââââââââââââ ANIMATED WAVE HEADER âââââââââââââââââââââââ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=42&fontColor=e0f2ff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Reinforcement%20Learning%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=55&descSize=16" width="100%" alt="banner"/>
-</div>
 
-<!-- âââââââââââââââââââââââ 3D WORDMARK âââââââââââââââââââââââ -->
-<div align="center">
-  <img src="assets/kkm121-3d.png" width="92%" alt="kkm121 rendered in 3D chrome and glass letters"/>
-</div>
+<!-- ═══════════════════════ HEADER WAVE ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1e293b,100:0284c7&height=200&section=header&text=M%20MUTHU%20KUMARAN&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=36&desc=AI%20Explorer%20%E2%80%A2%20Reinforcement%20Learning%20%E2%80%A2%20Quantum-Inspired%20Systems&descAlignY=58&descSize=16&descColor=bae6fd" width="100%" alt="Header banner" />
 
-<!-- âââââââââââââââââââââââ TYPING ANIMATION (always in motion) âââââââââââââââââââââââ -->
-<div align="center">
-  <a href="https://github.com/kkm121">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+M+Muthu+Kumaran+%F0%9F%91%8B;Computer+Science+Student+%7C+AI+Explorer;Reinforcement+Learning+%E2%80%A2+Multi-Agent+Systems;Building+intelligence+that+solves+real+problems;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing animation"/>
-  </a>
-</div>
+<!-- ═══════════════════════ 3D WORDMARK ═══════════════════════ -->
+<img src="assets/kkm121-3d.png" width="88%" alt="kkm121 3D Chrome Glass Render" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkm121&style=for-the-badge&color=2c5364&label=PROFILE+VISITS" alt="profile views"/>
-  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kkm121?tab=followers">
-    <img src="https://img.shields.io/github/followers/kkm121?style=for-the-badge&logo=github&color=203a43&labelColor=0f2027" alt="GitHub followers"/>
-  </a>
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<a href="https://github.com/kkm121">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=740&lines=Hi%2C+I'm+M+Muthu+Kumaran+%F0%9F%91%8B;Computer+Science+Student+%7C+AI+Researcher;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Building+intelligence+that+solves+real+problems;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing animation" />
+</a>
+
+<br/>
+
+<!-- ═══════════════════════ BADGES ═══════════════════════ -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kkm121&style=for-the-badge&color=0284c7&labelColor=0a0f1e&label=PROFILE+VISITS" alt="Profile views" />
+  <a href="https://github.com/kkm121?tab=followers"><img src="https://img.shields.io/github/followers/kkm121?style=for-the-badge&logo=github&color=818cf8&labelColor=0a0f1e" alt="Followers" /></a>
+  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" alt="LinkedIn" /></a>
+</p>
+
 </div>
 
 <br/>
 
-<!-- âââââââââââââââââââââââ REALISTIC WORKSPACE âââââââââââââââââââââââ -->
-<div align="center">
-  <img src="assets/workspace-banner.png" width="92%" alt="Photorealistic night-time developer workspace with neural network training on screen"/>
-  <br/>
-  <sub>â¨ï¸ <i>Where the magic happens â late nights, coffee, and gradient descent.</i></sub>
-</div>
-
-<br/>
-
-<!-- âââââââââââââââââââââââ SNOW: PAUSE / PLAY âââââââââââââââââââââââ -->
+<!-- ═══════════════════════ INTERACTIVE SNOWFALL SCENE ═══════════════════════ -->
 <details open>
-  <summary><b>âï¸ Let it snow &nbsp;·&nbsp; click here to pause / play the snowfall</b></summary>
+  <summary><b>❄️ &nbsp;Snowfall over the Northern Horizon</b> — <i>click here to pause / play</i></summary>
   <br/>
   <div align="center">
-    <img src="assets/snow.svg" width="92%" alt="Animated snow falling over a moonlit winter night"/>
+    <img src="assets/snow.svg" width="95%" alt="Interactive animated winter night sky with falling snow and moon glow" />
   </div>
 </details>
 
 <br/>
 
-<!-- âââââââââââââââââââââââ ABOUT ME âââââââââââââââââââââââ -->
-## ð§¬ Who am I?
+<!-- ═══════════════════════ WHO AM I ═══════════════════════ -->
+## 🧪 Who Am I
+
+> **M Muthu Kumaran** — Computer Science student passionate about applying advanced computational techniques to solve complex real-world challenges.
+>
+> I focus on **Reinforcement Learning** vision enhancement, **Quantum-inspired sampling engines**, and **Autonomous Multi-Agent AI systems**, while contributing to open-source ecosystems like **OpenVINO**.
 
 ```python
 class MuthuKumaran:
     def __init__(self):
-        self.name      = "M Muthu Kumaran"
-        self.handle    = "kkm121"
-        self.role      = "Computer Science Student"
-        self.passion   = "Applying advanced computational techniques to real-world challenges"
-        self.exploring = ["Artificial Intelligence", "Reinforcement Learning",
-                          "Multi-Agent Systems", "Quantum-Inspired Computing"]
-        self.open_source = "Actively exploring and contributing to projects like OpenVINO"
+        self.handle      = "kkm121"
+        self.role        = "Computer Science Student · AI Explorer"
+        self.driven_by   = "Applying advanced computation to real-world problems"
+        self.exploring   = ["Reinforcement Learning", "Quantum-Inspired Sampling",
+                            "Multi-Agent AI Systems", "RAG Frameworks", "Model Optimization"]
+        self.open_source = ["OpenVINO", "LangGraph", "PyTorch"]
 
     def current_mission(self):
-        return "Turning research ideas into systems that actually work ð"
+        return "Turning cutting-edge AI research into systems that actually work 🚀"
 ```
 
-- ð§  I build **AI systems that see, reason, and act** â from RL agents that enhance vision pipelines to autonomous multi-agent research assistants
-- âï¸ Fascinated by **quantum-inspired algorithms** and what's beyond classical computing
-- ð± Diving deep into **open source** â learning from and working with real-world codebases like OpenVINO
-- ð¯ Philosophy: *ship things that measurably work, guard against regressions, and never stop exploring*
+- 🧠 **Vision & RL**: Engineering RL agents that dynamically restore degraded imagery to maximize YOLOv8 detection accuracy
+- ⚛️ **Quantum-Inspired**: Exploring adaptive quantum sampling heuristics for optimization and search algorithms
+- 🤖 **Multi-Agent AI**: Architecting autonomous agent frameworks with LangGraph & STORM for deep research and synthesis
+- ⚡ **Performance**: Optimizing neural network runtime inference using Intel OpenVINO
 
 <br/>
 
-<!-- âââââââââââââââââââââââ TECH STACK âââââââââââââââââââââââ -->
-## ð ï¸ Tech Stack & Arsenal
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**ClearSight-RL**](https://github.com/kkm121/ClearSight-RL) | RL pipeline enhancing degraded images (fog/haze) to boost YOLOv8 accuracy | `Python` `PyTorch` `PPO` `YOLOv8` |
+| [**Multi-Agent-Research-Assistant**](https://github.com/kkm121/Multi-Agent-Research-Assistant) | Autonomous multi-agent platform for deep research synthesis via LangGraph | `FastAPI` `LangGraph` `RAG` `Chainlit` |
+| [**Adaptive-Quantum-Sampling-Engine**](https://github.com/kkm121/Adaptive-Quantum-Sampling-Engine) | Quantum-inspired algorithms for non-convex sampling & optimization | `Python` `C++` `NumPy` `SciPy` |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
 ### Languages & Core
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode&theme=dark" alt="Python, C++, Git, GitHub, Linux, VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,git,github,linux,vscode&perline=8&theme=dark" alt="Languages" />
 
-### AI / ML & Vision
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=dark" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Anaconda"/>
+### AI, Machine Learning & Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&perline=8&theme=dark" alt="AI & ML" />
 
-### Backend & Tooling
-<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres&theme=dark" alt="FastAPI, Docker, PostgreSQL"/>
+<br/>
 
-### Specialized Weapons ð¡ï¸
 <p>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-PPO%20%7C%20Stable--Baselines3-6C63FF?style=for-the-badge" alt="Reinforcement Learning"/>
-  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-00FFC6?style=for-the-badge&labelColor=111" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent%20Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-PPO-38bdf8?style=for-the-badge&labelColor=0a0f1e" alt="RL PPO" />
+  <img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-818cf8?style=for-the-badge&labelColor=0a0f1e" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent_Systems-0284c7?style=for-the-badge&labelColor=0a0f1e" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenVINO-Model_Optimization-c084fc?style=for-the-badge&labelColor=0a0f1e" alt="OpenVINO" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/OpenVINO-AI%20Inference%20Optimization-4B32C3?style=for-the-badge&logo=intel&logoColor=white" alt="OpenVINO"/>
-  <img src="https://img.shields.io/badge/Chainlit-Conversational%20UI-F43F5E?style=for-the-badge" alt="Chainlit"/>
-  <img src="https://img.shields.io/badge/Quantum--Inspired-Sampling%20%26%20Algorithms-9D4EDD?style=for-the-badge" alt="Quantum-inspired computing"/>
-</p>
+
+### Backend, Tools & Data
+<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,postman&perline=8&theme=dark" alt="Backend & Tools" />
 
 </div>
 
 <br/>
 
-<!-- âââââââââââââââââââââââ 3D CONTRIBUTION CITY (auto-updates daily) âââââââââââââââââââââââ -->
-## ðï¸ My Contributions â in 3D
+<!-- ═══════════════════════ 3D SKYLINE ═══════════════════════ -->
+## 🏙️ Contributions in 3D
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D isometric skyline built from my GitHub contributions, regenerated daily"/>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Isometric Skyline of Contributions" />
   <br/>
-  <sub>ð <i>Every block is a real contribution â this skyline rebuilds itself every night as I code.</i></sub>
+  <sub>🌃 <i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
 </div>
 
 <br/>
 
-<!-- âââââââââââââââââââââââ LIVE STATS (auto-update) âââââââââââââââââââââââ -->
-## ð¡ Live Telemetry
+<!-- ═══════════════════════ LIVE TELEMETRY & STATS ═══════════════════════ -->
+## 📡 Live Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58c6ff&icon_color=58c6ff&count_private=true&include_all_commits=true" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58c6ff&langs_count=8" height="180" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&hide_border=true&background=0d1117&ring=58c6ff&fire=ffb86c&currStreakLabel=58c6ff" height="180" alt="Contribution streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58c6ff&line=6c63ff&point=ffb86c&area=true" width="95%" alt="Contribution activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kkm121&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="GitHub trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="49%" alt="Streak Stats" />
 </div>
 
 <br/>
 
-<!-- âââââââââââââââââââââââ SNAKE (auto-updates daily) âââââââââââââââââââââââ -->
-## ð The Contribution Snake
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=8" height="185" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=tokyo-night&bg_color=0a0f1e&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=0284c7&hide_border=false&border_color=38bdf8" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kkm121&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+## 🐍 The Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake eating my contribution graph, regenerated daily"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake eating contributions" />
   </picture>
 </div>
 
 <br/>
 
-<!-- âââââââââââââââââââââââ CONNECT âââââââââââââââââââââââ -->
-## ð¤ Let's Build Something
-
+<!-- ═══════════════════════ FOOTER & CONNECT ═══════════════════════ -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert">
-    <img src="https://img.shields.io/badge/LinkedIn-M%20Muthu%20Kumaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kkm121">
-    <img src="https://img.shields.io/badge/GitHub-kkm121-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+
+## 🤝 Let's Connect & Build
+
+<p>
+  <a href="https://github.com/kkm121"><img src="https://img.shields.io/badge/GitHub-kkm121-0a0f1e?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0a0f1e" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-M_Muthu_Kumaran-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=0284c7&labelColor=0a0f1e" alt="LinkedIn" /></a>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=e0f2ff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:818cf8,100:0a0f1e&height=130&section=footer&fontSize=0&animation=twinkling" width="100%" alt="Footer wave" />
+
 </div>
