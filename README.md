@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" alt="LinkedIn" /></a>
 </p>
 
-<!-- ═══════════════════════ VISUAL SCENE (DIRECTLY VISIBLE) ═══════════════════════ -->
+<!-- ═══════════════════════ VISUAL SCENE ═══════════════════════ -->
 <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/snow.svg" width="100%" alt="Winter horizon vector landscape" />
 
 </div>
@@ -109,10 +109,14 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (LIGHT & DARK DUAL THEME SNAKE) ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS (3D SKYLINE & SNAKE) ═══════════════════════ -->
 ## Contributions
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
