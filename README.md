@@ -119,13 +119,25 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS (3D SKYLINE + YEARLY SNAKE) ═══════════════════════ -->
 ## 🏙️ Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Isometric Skyline of Contributions" />
-  <br/>
-  <sub>🌃 <i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
+
+### 🌃 3D Contribution Skyline
+<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
+<br/>
+<sub><i>Isometric skyline synthesized daily from my real GitHub activity.</i></sub>
+
+<br/><br/>
+
+### 🐍 Yearly Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Yearly snake game eating through 268+ contributions" />
+</picture>
+
 </div>
 
 <br/>
@@ -155,19 +167,6 @@ class MuthuKumaran:
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 <div align="center">
   <img src="https://github-profile-trophy-zeta.vercel.app/?username=kkm121&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
-## 🐍 The Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake eating contributions" />
-  </picture>
 </div>
 
 <br/>
