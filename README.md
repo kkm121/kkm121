@@ -7,7 +7,7 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/kkm121">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" alt="Typing animation" />
 </a>
 
 <br/>
@@ -109,13 +109,13 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (3D ISOMETRIC SKYLINE) ═══════════════════════ -->
-## 🏙️ Contributions
+<!-- ═══════════════════════ CONTRIBUTIONS (NO EMOJIS, CLEAN 3D SKYLINE) ═══════════════════════ -->
+## Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
   <br/>
-  <sub>🌃 <i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
+  <sub><i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
 </div>
 
 <br/>
