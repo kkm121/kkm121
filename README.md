@@ -122,24 +122,25 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS (EXACT YEARLY GRID + SNAKE) ═══════════════════════ -->
 ## Contributions
 
 <div align="center">
 
-### 3D Contribution Skyline
-<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
-<br/>
-<sub><i>Isometric skyline synthesized daily from active GitHub commit history.</i></sub>
-
-<br/><br/>
-
-### Yearly Contribution Snake
+### 268 Contributions in the Last Year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Yearly contribution snake navigation" />
+  <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="268 Contributions in the Last Year Snake Animation" />
 </picture>
+
+<br/>
+
+<details>
+  <summary><b>View 3D Isometric Contribution Skyline</b></summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
+</details>
 
 </div>
 
@@ -149,14 +150,14 @@ class MuthuKumaran:
 ## Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true&hide_rank=true" width="49%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="49%" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=8" height="185" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=8" height="185" alt="Top Languages" />
 </div>
 
 <br/>
