@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════ 3D IMMERSIVE WORDMARK ═══════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.svg" />
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.png" width="100%" alt="KKM121 3D Wordmark" />
-</picture>
+<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.svg" width="100%" alt="The 3D KKM121 Banner" />
 
 <br/>
 

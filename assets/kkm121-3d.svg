@@ -1,128 +1,139 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KKM121 animated 3D banner">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050b14"/>
-      <stop offset="50%" stop-color="#0a1526"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <!-- Deep space background gradient -->
+    <radialGradient id="bg" cx="50%" cy="40%" r="80%">
+      <stop offset="0%" stop-color="#101828"/>
+      <stop offset="55%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#05070f"/>
+    </radialGradient>
+
+    <!-- Animated shimmer gradient for the face of the 3D text -->
+    <linearGradient id="face" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#a78bfa;#22d3ee" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#22d3ee;#a78bfa" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#c084fc;#38bdf8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.3 0; 0.3 0; -0.3 0" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- Chrome Metallic Face Gradient -->
-    <linearGradient id="chrome3DFace" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="25%" stop-color="#bae6fd"/>
-      <stop offset="50%" stop-color="#38bdf8"/>
-      <stop offset="75%" stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#c084fc"/>
+    <!-- Extrusion side gradient (darker, gives depth) -->
+    <linearGradient id="side" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e7490"/>
+      <stop offset="100%" stop-color="#312e81"/>
     </linearGradient>
 
-    <!-- 3D Extrusion Side Gradients -->
-    <linearGradient id="extDeep" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0284c7"/>
-      <stop offset="100%" stop-color="#0f172a"/>
-    </linearGradient>
-    <linearGradient id="extMid" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0369a1"/>
-      <stop offset="100%" stop-color="#020617"/>
-    </linearGradient>
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-    <!-- Shimmer Glow Animation -->
-    <linearGradient id="shimmerEffect" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
-      <animate attributeName="x1" from="-100%" to="200%" dur="3.5s" repeatCount="indefinite"/>
-      <animate attributeName="x2" from="0%" to="300%" dur="3.5s" repeatCount="indefinite"/>
-    </linearGradient>
+    <!-- Soft glow for particles -->
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
 
-    <style>
-      @keyframes gentleFloat {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-8px); }
-      }
-      @keyframes pulseLight {
-        0%, 100% { opacity: 0.4; }
-        50% { opacity: 0.85; }
-      }
-      .floating-layer {
-        animation: gentleFloat 4s ease-in-out infinite;
-      }
-      .pulse-glow {
-        animation: pulseLight 3s ease-in-out infinite;
-      }
-      .text-bold-3d {
-        font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
-        font-weight: 900;
-        letter-spacing: 8px;
-        text-anchor: middle;
-      }
-    </style>
+    <!-- Grid line gradient fading into distance -->
+    <linearGradient id="gridFade" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
   </defs>
 
-  <!-- Background Card -->
-  <rect width="1200" height="360" rx="16" fill="url(#bgGrad)"/>
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bg)"/>
 
-  <!-- Cyber 3D Perspective Floor Grid -->
-  <g stroke="#38bdf8" stroke-width="0.8" opacity="0.18">
-    <line x1="0" y1="240" x2="1200" y2="240"/>
-    <line x1="0" y1="265" x2="1200" y2="265"/>
-    <line x1="0" y1="300" x2="1200" y2="300"/>
-    <line x1="0" y1="345" x2="1200" y2="345"/>
-
-    <line x1="600" y1="230" x2="50" y2="360"/>
-    <line x1="600" y1="230" x2="250" y2="360"/>
-    <line x1="600" y1="230" x2="450" y2="360"/>
-    <line x1="600" y1="230" x2="750" y2="360"/>
-    <line x1="600" y1="230" x2="950" y2="360"/>
-    <line x1="600" y1="230" x2="1150" y2="360"/>
+  <!-- Perspective floor grid -->
+  <g stroke="url(#gridFade)" stroke-width="1">
+    <line x1="450" y1="300" x2="450" y2="205"/>
+    <line x1="330" y1="300" x2="410" y2="205"/>
+    <line x1="210" y1="300" x2="370" y2="205"/>
+    <line x1="90"  y1="300" x2="330" y2="205"/>
+    <line x1="570" y1="300" x2="490" y2="205"/>
+    <line x1="690" y1="300" x2="530" y2="205"/>
+    <line x1="810" y1="300" x2="570" y2="205"/>
+    <line x1="0" y1="230" x2="900" y2="230" opacity="0.5"/>
+    <line x1="0" y1="252" x2="900" y2="252" opacity="0.7"/>
+    <line x1="0" y1="280" x2="900" y2="280"/>
   </g>
 
-  <!-- Glowing Ambient Background Stars -->
-  <g fill="#38bdf8" class="pulse-glow">
-    <circle cx="150" cy="70" r="1.5" opacity="0.7"/>
-    <circle cx="350" cy="110" r="2" opacity="0.5"/>
-    <circle cx="520" cy="60" r="1.5" opacity="0.8"/>
-    <circle cx="780" cy="80" r="2" opacity="0.6"/>
-    <circle cx="950" cy="50" r="1.5" opacity="0.9"/>
-    <circle cx="1080" cy="110" r="2" opacity="0.5"/>
+  <!-- Twinkling stars -->
+  <g fill="#e0f2fe">
+    <circle cx="80" cy="50" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="90" r="1.2"><animate attributeName="opacity" values="1;0.15;1" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="40" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="55" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="35" r="1.7"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="830" cy="80" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="140" r="1.1"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="150" r="1.3"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.4s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- ══════════════════ 3D EXTRUDED FLOATING TYPOGRAPHY ══════════════════ -->
-  <g class="floating-layer">
+  <!-- Orbiting particles around the text -->
+  <g filter="url(#softGlow)">
+    <circle r="4" fill="#22d3ee">
+      <animateMotion dur="9s" repeatCount="indefinite"
+        path="M 450 150 m -280 0 a 280 70 0 1 0 560 0 a 280 70 0 1 0 -560 0"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#a78bfa">
+      <animateMotion dur="12s" repeatCount="indefinite" begin="-4s"
+        path="M 450 150 m -280 0 a 280 70 0 1 0 560 0 a 280 70 0 1 0 -560 0"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.5" fill="#f0abfc">
+      <animateMotion dur="7s" repeatCount="indefinite" begin="-2s"
+        path="M 450 150 m 280 0 a 280 70 0 1 0 -560 0 a 280 70 0 1 0 560 0"/>
+    </circle>
+  </g>
 
-    <!-- 3D Extruded Depth Layers (Back to Front) -->
-    <text x="600" y="194" font-size="124" class="text-bold-3d" fill="#010a14" opacity="0.9">KKM121</text>
-    <text x="600" y="190" font-size="124" class="text-bold-3d" fill="#021529" opacity="0.9">KKM121</text>
-    <text x="600" y="186" font-size="124" class="text-bold-3d" fill="#042747" opacity="0.95">KKM121</text>
-    <text x="600" y="182" font-size="124" class="text-bold-3d" fill="url(#extDeep)">KKM121</text>
-    <text x="600" y="178" font-size="124" class="text-bold-3d" fill="url(#extMid)">KKM121</text>
-    <text x="600" y="174" font-size="124" class="text-bold-3d" fill="url(#extDeep)">KKM121</text>
-    <text x="600" y="170" font-size="124" class="text-bold-3d" fill="#0284c7">KKM121</text>
+  <!-- 3D text block: floats up and down forever -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
 
-    <!-- Neon Edge Outline -->
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="none" stroke="#38bdf8" stroke-width="4" opacity="0.8">KKM121</text>
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.9">KKM121</text>
+    <!-- Extrusion layers (back to front) create the 3D depth -->
+    <g font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="110" font-weight="bold" text-anchor="middle">
+      <text x="462" y="182" fill="#05070f" opacity="0.9">KKM121</text>
+      <text x="460" y="180" fill="url(#side)">KKM121</text>
+      <text x="458" y="178" fill="url(#side)">KKM121</text>
+      <text x="456" y="176" fill="url(#side)">KKM121</text>
+      <text x="454" y="174" fill="url(#side)">KKM121</text>
+      <text x="452" y="172" fill="url(#side)">KKM121</text>
 
-    <!-- 3D Front Face -->
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="url(#chrome3DFace)">KKM121</text>
+      <!-- Face with animated gradient + glow -->
+      <text x="450" y="170" fill="url(#face)" filter="url(#glow)">KKM121</text>
 
-    <!-- Animated Shimmer Layer -->
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="url(#shimmerEffect)">KKM121</text>
+      <!-- Specular sweep across the face -->
+      <text x="450" y="170" fill="#ffffff" opacity="0">
+        KKM121
+        <animate attributeName="opacity" values="0;0;0.35;0;0" keyTimes="0;0.4;0.5;0.6;1" dur="4s" repeatCount="indefinite"/>
+      </text>
+    </g>
 
-    <!-- Chrome Bevel Top Highlight -->
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="none" stroke="#ffffff" stroke-width="1.2" opacity="0.75">KKM121</text>
+    <!-- Reflection under the text -->
+    <g font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="110" font-weight="bold" text-anchor="middle" transform="translate(0,340) scale(1,-1)">
+      <text x="450" y="130" fill="url(#face)" opacity="0.12">KKM121</text>
+    </g>
+  </g>
 
-    <!-- Subtitle Line -->
-    <text x="600" y="218" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="700" fill="#38bdf8" letter-spacing="9" text-anchor="middle" opacity="0.9">
-      COMPUTER SCIENCE &bull; REINFORCEMENT LEARNING &bull; QUANTUM-INSPIRED SYSTEMS
+  <!-- Subtitle with typing-style reveal -->
+  <g font-family="Courier New, monospace" font-size="20" text-anchor="middle" fill="#7dd3fc">
+    <text x="450" y="235">
+      &lt;/&gt; M Muthu Kumaran &#183; AI &#215; RL &#215; Quantum &lt;/&gt;
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
     </text>
   </g>
 
-  <!-- 3D Ground Reflection -->
-  <g transform="translate(0, 375) scale(1, -0.4)" opacity="0.22">
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="url(#chrome3DFace)">KKM121</text>
-  </g>
-
-  <!-- Border Frame -->
-  <rect width="1200" height="360" rx="16" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.3"/>
+  <!-- Scanline pulse across whole banner -->
+  <rect x="0" y="0" width="900" height="3" fill="#22d3ee" opacity="0.25">
+    <animate attributeName="y" values="-4;300;-4" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>
