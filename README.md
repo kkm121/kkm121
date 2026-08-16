@@ -109,21 +109,13 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (3D SKYLINE & SNAKE) ═══════════════════════ -->
-## Contributions
+<!-- ═══════════════════════ CONTRIBUTIONS (3D ISOMETRIC SKYLINE) ═══════════════════════ -->
+## 🏙️ Contributions
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Grid Snake Game" />
-</picture>
-
+  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
+  <br/>
+  <sub>🌃 <i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
 </div>
 
 <br/>
