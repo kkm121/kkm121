@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════ 3D IMMERSIVE VECTOR BANNER ═══════════════════════ -->
-<img src="assets/kkm121-3d.svg" width="100%" alt="KKM121 3D Floating Neon Wordmark" />
+<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/kkm121-3d.svg" width="100%" alt="KKM121 3D Floating Neon Wordmark" />
 
 <br/>
 
@@ -28,7 +28,7 @@
   <summary><b>❄️ &nbsp;Snowfall over the Horizon</b> — <i>click here to pause / play</i></summary>
   <br/>
   <div align="center">
-    <img src="assets/snow.svg" width="100%" alt="Interactive animated winter night sky with falling snow and moon glow" />
+    <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/snow.svg" width="100%" alt="Interactive animated winter night sky with falling snow and moon glow" />
   </div>
 </details>
 
@@ -107,7 +107,7 @@ class MuthuKumaran:
 
 <br/>
 
-### 🗄️ Databases & Data Storage
+### 🗄️ Databases & SQL Storage
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6&theme=dark" alt="Databases: PostgreSQL, MySQL, SQLite, MongoDB" />
 
 <br/>
@@ -123,7 +123,7 @@ class MuthuKumaran:
 ## 🏙️ Contributions
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Isometric Skyline of Contributions" />
+  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Isometric Skyline of Contributions" />
   <br/>
   <sub>🌃 <i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
 </div>
@@ -134,14 +134,14 @@ class MuthuKumaran:
 ## 📡 Live Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="49%" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=8" height="185" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=8" height="185" alt="Top Languages" />
 </div>
 
 <br/>
@@ -154,7 +154,7 @@ class MuthuKumaran:
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kkm121&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-zeta.vercel.app/?username=kkm121&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="GitHub Trophies" />
 </div>
 
 <br/>
