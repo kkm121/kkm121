@@ -48,7 +48,7 @@ class MuthuKumaran:
         self.role        = "Computer Science Student · AI Explorer"
         self.driven_by   = "Applying advanced computation to real-world problems"
         self.exploring   = ["Reinforcement Learning", "Quantum-Inspired Sampling",
-                            "Multi-Agent AI Systems", "RAG Frameworks", "Model Optimization"]
+                            "Multi-Agent AI Systems", "RAG Frameworks", "Full-Stack Development"]
         self.open_source = ["OpenVINO", "LangGraph", "PyTorch"]
 
     def current_mission(self):
@@ -58,7 +58,7 @@ class MuthuKumaran:
 - 🧠 **Vision & RL**: Engineering RL agents that dynamically restore degraded imagery to maximize YOLOv8 detection accuracy
 - ⚛️ **Quantum-Inspired**: Exploring adaptive quantum sampling heuristics for non-convex optimization and search algorithms
 - 🤖 **Multi-Agent AI**: Architecting autonomous agent frameworks with LangGraph & STORM for deep research and synthesis
-- ⚡ **Performance**: Optimizing neural network runtime inference across Intel hardware using OpenVINO
+- ⚡ **Full-Stack & Performance**: Building end-to-end applications across Python, Java, Node.js, React, and OpenVINO optimization
 
 <br/>
 
@@ -77,16 +77,23 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- ═══════════════════════ EXPANDED TECH STACK & ARSENAL ═══════════════════════ -->
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-### Languages & Core
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,git,github,linux,vscode&perline=8&theme=dark" alt="Languages" />
+### 💻 Languages & Core
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,bash,html,css&perline=9&theme=dark" alt="Languages: Python, Java, C++, C, JavaScript, TypeScript, Bash, HTML, CSS" />
 
-### AI, Machine Learning & Vision
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&perline=8&theme=dark" alt="AI & ML" />
+<br/>
+
+### 🌐 Frontend & Web Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&perline=6&theme=dark" alt="Web: React, Next.js, Node.js, Tailwind CSS" />
+
+<br/>
+
+### 🤖 AI, Machine Learning & Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&perline=6&theme=dark" alt="AI/ML: PyTorch, TensorFlow, OpenCV, scikit-learn, Anaconda" />
 
 <br/>
 
@@ -95,16 +102,24 @@ class MuthuKumaran:
   <img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-818cf8?style=for-the-badge&labelColor=0a0f1e" alt="YOLOv8" />
   <img src="https://img.shields.io/badge/LangGraph-Multi--Agent_Systems-0284c7?style=for-the-badge&labelColor=0a0f1e" alt="LangGraph" />
   <img src="https://img.shields.io/badge/OpenVINO-Model_Optimization-c084fc?style=for-the-badge&labelColor=0a0f1e" alt="OpenVINO" />
+  <img src="https://img.shields.io/badge/RAG-Vector_Search-22d3ee?style=for-the-badge&labelColor=0a0f1e" alt="RAG" />
 </p>
 
-### Backend, Tools & Data
-<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,postman&perline=8&theme=dark" alt="Backend & Tools" />
+<br/>
+
+### 🗄️ Databases & Data Storage
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6&theme=dark" alt="Databases: PostgreSQL, MySQL, SQLite, MongoDB" />
+
+<br/>
+
+### ⚙️ DevOps, Tools, Cloud & OS
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,fastapi,postman,vscode&perline=8&theme=dark" alt="DevOps & Tools: Docker, Git, GitHub, Linux, Ubuntu, FastAPI, Postman, VS Code" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (RENAMED AS REQUESTED) ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS ═══════════════════════ -->
 ## 🏙️ Contributions
 
 <div align="center">
