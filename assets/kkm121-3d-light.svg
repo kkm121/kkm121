@@ -1,0 +1,128 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KKM121 animated 3D banner light snow theme">
+  <defs>
+    <!-- Crisp frosty winter morning gradient -->
+    <radialGradient id="bgLight" cx="50%" cy="40%" r="80%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="55%" stop-color="#f0f9ff"/>
+      <stop offset="100%" stop-color="#e0f2fe"/>
+    </radialGradient>
+
+    <!-- Animated shimmer gradient for light mode 3D text -->
+    <linearGradient id="faceLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7">
+        <animate attributeName="stop-color" values="#0284c7;#6366f1;#0284c7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#6366f1">
+        <animate attributeName="stop-color" values="#6366f1;#0284c7;#6366f1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0369a1">
+        <animate attributeName="stop-color" values="#0369a1;#7c3aed;#0369a1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.3 0; 0.3 0; -0.3 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Extrusion side gradient for light mode depth -->
+    <linearGradient id="sideLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+
+    <!-- Soft ice blur filter -->
+    <filter id="softIceGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Perspective grid gradient for light mode -->
+    <linearGradient id="gridFadeLight" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="300" fill="url(#bgLight)"/>
+
+  <!-- Perspective floor grid -->
+  <g stroke="url(#gridFadeLight)" stroke-width="1">
+    <line x1="450" y1="300" x2="450" y2="205"/>
+    <line x1="330" y1="300" x2="410" y2="205"/>
+    <line x1="210" y1="300" x2="370" y2="205"/>
+    <line x1="90"  y1="300" x2="330" y2="205"/>
+    <line x1="570" y1="300" x2="490" y2="205"/>
+    <line x1="690" y1="300" x2="530" y2="205"/>
+    <line x1="810" y1="300" x2="570" y2="205"/>
+    <line x1="0" y1="230" x2="900" y2="230" opacity="0.4"/>
+    <line x1="0" y1="252" x2="900" y2="252" opacity="0.6"/>
+    <line x1="0" y1="280" x2="900" y2="280"/>
+  </g>
+
+  <!-- Twinkling snowflakes & stars -->
+  <g fill="#0284c7">
+    <circle cx="80" cy="50" r="1.6"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="90" r="1.2"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="40" r="1.4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="55" r="1.3"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="35" r="1.7"><animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="830" cy="80" r="1.2"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="140" r="1.1"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="150" r="1.3"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Orbiting particles -->
+  <g>
+    <circle r="3.5" fill="#0284c7">
+      <animateMotion dur="9s" repeatCount="indefinite"
+        path="M 450 150 m -280 0 a 280 70 0 1 0 560 0 a 280 70 0 1 0 -560 0"/>
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#6366f1">
+      <animateMotion dur="12s" repeatCount="indefinite" begin="-4s"
+        path="M 450 150 m -280 0 a 280 70 0 1 0 560 0 a 280 70 0 1 0 -560 0"/>
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- 3D text block -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+
+    <!-- Extrusion layers -->
+    <g font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="110" font-weight="bold" text-anchor="middle">
+      <text x="462" y="182" fill="#cbd5e1" opacity="0.9">KKM121</text>
+      <text x="460" y="180" fill="url(#sideLight)">KKM121</text>
+      <text x="458" y="178" fill="url(#sideLight)">KKM121</text>
+      <text x="456" y="176" fill="url(#sideLight)">KKM121</text>
+      <text x="454" y="174" fill="url(#sideLight)">KKM121</text>
+      <text x="452" y="172" fill="url(#sideLight)">KKM121</text>
+
+      <!-- Face with animated gradient -->
+      <text x="450" y="170" fill="url(#faceLight)" filter="url(#softIceGlow)">KKM121</text>
+
+      <!-- Specular sweep -->
+      <text x="450" y="170" fill="#ffffff" opacity="0">
+        KKM121
+        <animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.4;0.5;0.6;1" dur="4s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- Reflection under the text -->
+    <g font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="110" font-weight="bold" text-anchor="middle" transform="translate(0,340) scale(1,-1)">
+      <text x="450" y="130" fill="url(#faceLight)" opacity="0.12">KKM121</text>
+    </g>
+  </g>
+
+  <!-- Subtitle -->
+  <g font-family="Courier New, monospace" font-size="20" text-anchor="middle" fill="#0369a1">
+    <text x="450" y="235">
+      &lt;/&gt; M Muthu Kumaran &#183; AI &#215; RL &#215; Quantum &lt;/&gt;
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Ice Frost Border -->
+  <rect width="900" height="300" fill="none" stroke="#bae6fd" stroke-width="2"/>
+</svg>
