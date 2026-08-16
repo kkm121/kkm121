@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- ═══════════════════════ HEADER WAVE ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1e293b,100:0284c7&height=200&section=header&text=M%20MUTHU%20KUMARAN&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=36&desc=AI%20Explorer%20%E2%80%A2%20Reinforcement%20Learning%20%E2%80%A2%20Quantum-Inspired%20Systems&descAlignY=58&descSize=16&descColor=bae6fd" width="100%" alt="Header banner" />
+<!-- ═══════════════════════ 3D IMMERSIVE VECTOR BANNER ═══════════════════════ -->
+<img src="assets/kkm121-3d.svg" width="100%" alt="KKM121 3D Floating Neon Wordmark" />
 
-<!-- ═══════════════════════ 3D WORDMARK ═══════════════════════ -->
-<img src="assets/kkm121-3d.png" width="88%" alt="kkm121 3D Chrome Glass Render" />
+<br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/kkm121">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=740&lines=Hi%2C+I'm+M+Muthu+Kumaran+%F0%9F%91%8B;Computer+Science+Student+%7C+AI+Researcher;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Building+intelligence+that+solves+real+problems;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+M+Muthu+Kumaran+%F0%9F%91%8B;Computer+Science+Student+%7C+AI+Researcher;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Building+intelligence+that+solves+real+problems;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════════ BADGES ═══════════════════════ -->
+<!-- ═══════════════════════ PROFILE METRIC BADGES ═══════════════════════ -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=kkm121&style=for-the-badge&color=0284c7&labelColor=0a0f1e&label=PROFILE+VISITS" alt="Profile views" />
   <a href="https://github.com/kkm121?tab=followers"><img src="https://img.shields.io/github/followers/kkm121?style=for-the-badge&logo=github&color=818cf8&labelColor=0a0f1e" alt="Followers" /></a>
@@ -24,12 +23,12 @@
 
 <br/>
 
-<!-- ═══════════════════════ INTERACTIVE SNOWFALL SCENE ═══════════════════════ -->
+<!-- ═══════════════════════ INTERACTIVE SNOWFALL & AURORA SCENE ═══════════════════════ -->
 <details open>
-  <summary><b>❄️ &nbsp;Snowfall over the Northern Horizon</b> — <i>click here to pause / play</i></summary>
+  <summary><b>❄️ &nbsp;Snowfall over the Horizon</b> — <i>click here to pause / play</i></summary>
   <br/>
   <div align="center">
-    <img src="assets/snow.svg" width="95%" alt="Interactive animated winter night sky with falling snow and moon glow" />
+    <img src="assets/snow.svg" width="100%" alt="Interactive animated winter night sky with falling snow and moon glow" />
   </div>
 </details>
 
@@ -40,7 +39,7 @@
 
 > **M Muthu Kumaran** — Computer Science student passionate about applying advanced computational techniques to solve complex real-world challenges.
 >
-> I focus on **Reinforcement Learning** vision enhancement, **Quantum-inspired sampling engines**, and **Autonomous Multi-Agent AI systems**, while contributing to open-source ecosystems like **OpenVINO**.
+> I focus on **Reinforcement Learning** vision enhancement, **Quantum-inspired sampling engines**, and **Autonomous Multi-Agent AI systems**, while actively exploring and contributing to open-source frameworks like **OpenVINO**.
 
 ```python
 class MuthuKumaran:
@@ -57,9 +56,9 @@ class MuthuKumaran:
 ```
 
 - 🧠 **Vision & RL**: Engineering RL agents that dynamically restore degraded imagery to maximize YOLOv8 detection accuracy
-- ⚛️ **Quantum-Inspired**: Exploring adaptive quantum sampling heuristics for optimization and search algorithms
+- ⚛️ **Quantum-Inspired**: Exploring adaptive quantum sampling heuristics for non-convex optimization and search algorithms
 - 🤖 **Multi-Agent AI**: Architecting autonomous agent frameworks with LangGraph & STORM for deep research and synthesis
-- ⚡ **Performance**: Optimizing neural network runtime inference using Intel OpenVINO
+- ⚡ **Performance**: Optimizing neural network runtime inference across Intel hardware using OpenVINO
 
 <br/>
 
@@ -105,11 +104,11 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ 3D SKYLINE ═══════════════════════ -->
-## 🏙️ Contributions in 3D
+<!-- ═══════════════════════ CONTRIBUTIONS (RENAMED AS REQUESTED) ═══════════════════════ -->
+## 🏙️ Contributions
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Isometric Skyline of Contributions" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Isometric Skyline of Contributions" />
   <br/>
   <sub>🌃 <i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
 </div>
