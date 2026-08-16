@@ -12,9 +12,8 @@
 
 <br/>
 
-<!-- ═══════════════════════ PROFILE METRICS ═══════════════════════ -->
+<!-- ═══════════════════════ PROFILE CONNECT BADGES ═══════════════════════ -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kkm121&style=for-the-badge&color=0284c7&labelColor=0a0f1e&label=PROFILE+VISITS" alt="Profile views" />
   <a href="https://github.com/kkm121?tab=followers"><img src="https://img.shields.io/github/followers/kkm121?style=for-the-badge&logo=github&color=818cf8&labelColor=0a0f1e" alt="Followers" /></a>
   <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" alt="LinkedIn" /></a>
 </p>
@@ -118,7 +117,7 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (VIVID YEARLY HEATMAP & SNAKE) ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS (268 CONTRIBUTIONS YEARLY SNAKE) ═══════════════════════ -->
 ## Contributions
 
 <div align="center">
@@ -129,14 +128,6 @@ class MuthuKumaran:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="268 Contributions in the Last Year Snake Animation" />
 </picture>
-
-<br/>
-
-<details>
-  <summary><b>View 3D Isometric Contribution Skyline</b></summary>
-  <br/>
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
-</details>
 
 </div>
 
