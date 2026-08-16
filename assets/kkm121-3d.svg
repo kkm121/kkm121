@@ -35,15 +35,6 @@
       <animate attributeName="x2" from="0%" to="300%" dur="3.5s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- Simple Standard Blur Filter (Camo Compliant) -->
-    <filter id="camoGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
     <style>
       @keyframes gentleFloat {
         0%, 100% { transform: translateY(0px); }
@@ -108,9 +99,9 @@
     <text x="600" y="174" font-size="124" class="text-bold-3d" fill="url(#extDeep)">KKM121</text>
     <text x="600" y="170" font-size="124" class="text-bold-3d" fill="#0284c7">KKM121</text>
 
-    <!-- Neon Edge Glow Stroke -->
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="none" stroke="#38bdf8" stroke-width="6" opacity="0.75" filter="url(#camoGlow)">KKM121</text>
-    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="none" stroke="#818cf8" stroke-width="2" opacity="0.9">KKM121</text>
+    <!-- Neon Edge Outline -->
+    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="none" stroke="#38bdf8" stroke-width="4" opacity="0.8">KKM121</text>
+    <text x="600" y="166" font-size="124" class="text-bold-3d" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.9">KKM121</text>
 
     <!-- 3D Front Face -->
     <text x="600" y="166" font-size="124" class="text-bold-3d" fill="url(#chrome3DFace)">KKM121</text>
