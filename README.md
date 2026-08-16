@@ -18,18 +18,10 @@
   <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" alt="LinkedIn" /></a>
 </p>
 
+<!-- ═══════════════════════ VISUAL SCENE (DIRECTLY VISIBLE) ═══════════════════════ -->
+<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/snow.svg" width="100%" alt="Winter horizon vector landscape" />
+
 </div>
-
-<br/>
-
-<!-- ═══════════════════════ INTERACTIVE SCENE ═══════════════════════ -->
-<details open>
-  <summary><b>Interactive Visual Scene</b> &nbsp;·&nbsp; <i>Click bar to toggle animation</i></summary>
-  <br/>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/assets/snow.svg" width="100%" alt="Winter horizon vector landscape" />
-  </div>
-</details>
 
 <br/>
 
@@ -117,16 +109,15 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (268 CONTRIBUTIONS YEARLY SNAKE) ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS (LIGHT & DARK DUAL THEME SNAKE) ═══════════════════════ -->
 ## Contributions
 
 <div align="center">
 
-### 268 Contributions in the Last Year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="268 Contributions in the Last Year Snake Animation" />
+  <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Grid Snake Game" />
 </picture>
 
 </div>
@@ -148,13 +139,6 @@ class MuthuKumaran:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=tokyo-night&bg_color=0a0f1e&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=0284c7&hide_border=false&border_color=38bdf8" width="95%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ ACHIEVEMENTS & TROPHIES ═══════════════════════ -->
-<div align="center">
-  <img src="https://github-profile-trophy-zeta.vercel.app/?username=kkm121&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="GitHub Trophies" />
 </div>
 
 <br/>
