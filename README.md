@@ -109,18 +109,29 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (NO EMOJIS, CLEAN 3D SKYLINE) ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTIONS (HYBRID SNAKE + 3D SKYLINE) ═══════════════════════ -->
 ## Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
-  <br/>
-  <sub><i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kkm121/kkm121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Grid Snake Game" />
+</picture>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/kkm121/kkm121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Skyline of Contributions" />
+
+<br/>
+<sub><i>Every block is a real contribution — regenerated nightly via GitHub Actions.</i></sub>
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ ANALYTICS & TELEMETRY ═══════════════════════ -->
+<!-- ═══════════════════════ ACTIVITY & ANALYTICS ═══════════════════════ -->
 ## Activity & Analytics
 
 <div align="center">
@@ -129,12 +140,6 @@ class MuthuKumaran:
   <img src="https://streak-stats.demolab.com?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" height="185" alt="Streak Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=6" height="185" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkm121&theme=tokyo-night&bg_color=0a0f1e&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=0284c7&hide_border=false&border_color=38bdf8" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
