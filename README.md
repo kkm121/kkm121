@@ -5,17 +5,18 @@
 
 <br/>
 
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<!-- ═══════════════════════ TYPING ANIMATION (LARGER & BOLDER) ═══════════════════════ -->
 <a href="https://github.com/kkm121">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=M+Muthu+Kumaran+%7C+Computer+Science+%26+AI;Reinforcement+Learning+%C3%97+Quantum+Sampling+%C3%97+RAG;Autonomous+Multi-Agent+Systems+%26+Model+Optimization;Open+Source+Developer+%26+Researcher" alt="Typing animation" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════════ PROFILE CONNECT BADGES ═══════════════════════ -->
+<!-- ═══════════════════════ PROFILE CONNECT BADGES (HIGH CONTRAST) ═══════════════════════ -->
 <p>
-  <a href="https://github.com/kkm121?tab=followers"><img src="https://img.shields.io/github/followers/kkm121?style=for-the-badge&logo=github&color=818cf8&labelColor=0a0f1e" alt="Followers" /></a>
-  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" alt="LinkedIn" /></a>
+  <a href="https://github.com/kkm121?tab=followers"><img src="https://img.shields.io/github/followers/kkm121?style=for-the-badge&logo=github&color=38bdf8&labelColor=161b22" alt="Followers" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" /></a>
 </p>
 
 <!-- ═══════════════════════ VISUAL SCENE ═══════════════════════ -->
@@ -26,7 +27,7 @@
 <br/>
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-## About Me
+# About Me
 
 > **M Muthu Kumaran** is a Computer Science student and developer focused on applying computational research to practical engineering problems.
 >
@@ -53,7 +54,7 @@ class MuthuKumaran:
 <br/>
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-## Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -68,7 +69,7 @@ class MuthuKumaran:
 <br/>
 
 <!-- ═══════════════════════ TECH STACK & ARSENAL ═══════════════════════ -->
-## Technology Stack
+# Technology Stack
 
 <div align="center">
 
@@ -88,11 +89,11 @@ class MuthuKumaran:
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-PPO-38bdf8?style=for-the-badge&labelColor=0a0f1e" alt="RL PPO" />
-  <img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-818cf8?style=for-the-badge&labelColor=0a0f1e" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent_Systems-0284c7?style=for-the-badge&labelColor=0a0f1e" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/OpenVINO-Model_Optimization-c084fc?style=for-the-badge&labelColor=0a0f1e" alt="OpenVINO" />
-  <img src="https://img.shields.io/badge/RAG-Vector_Search-22d3ee?style=for-the-badge&labelColor=0a0f1e" alt="RAG" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-PPO-38bdf8?style=for-the-badge&labelColor=161b22" alt="RL PPO" />
+  <img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-818cf8?style=for-the-badge&labelColor=161b22" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent_Systems-0284c7?style=for-the-badge&labelColor=161b22" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenVINO-Model_Optimization-c084fc?style=for-the-badge&labelColor=161b22" alt="OpenVINO" />
+  <img src="https://img.shields.io/badge/RAG-Vector_Search-22d3ee?style=for-the-badge&labelColor=161b22" alt="RAG" />
 </p>
 
 <br/>
@@ -109,8 +110,8 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ CONTRIBUTIONS (HYBRID SNAKE + 3D SKYLINE) ═══════════════════════ -->
-## Contributions
+<!-- ═══════════════════════ CONTRIBUTIONS (LIGHT-BLUE SNAKE & 3D SKYLINE) ═══════════════════════ -->
+# Contributions
 
 <div align="center">
 
@@ -132,7 +133,7 @@ class MuthuKumaran:
 <br/>
 
 <!-- ═══════════════════════ ACTIVITY & ANALYTICS ═══════════════════════ -->
-## Activity & Analytics
+# Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true&hide_rank=true" height="185" alt="GitHub Stats" />
@@ -147,11 +148,12 @@ class MuthuKumaran:
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 <div align="center">
 
-## Connect
+# Connect
 
 <p>
-  <a href="https://github.com/kkm121"><img src="https://img.shields.io/badge/GitHub-kkm121-0a0f1e?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0a0f1e" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-M_Muthu_Kumaran-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=0284c7&labelColor=0a0f1e" alt="LinkedIn" /></a>
+  <a href="https://github.com/kkm121"><img src="https://img.shields.io/badge/GitHub-kkm121-181717?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=161b22" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/m-muthu-kumaran-expert"><img src="https://img.shields.io/badge/LinkedIn-M_Muthu_Kumaran-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" /></a>
 </p>
 
 <br/>
