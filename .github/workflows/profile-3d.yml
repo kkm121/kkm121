@@ -3,9 +3,6 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 */6 * * *" # Automatically runs every 6 hours
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
@@ -17,14 +14,19 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull --rebase origin main || true
           git add -A .
           git commit -m "chore(3d-contrib): update 3d contribution graph" || exit 0
           git push
