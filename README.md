@@ -35,14 +35,24 @@
 
 ```python
 class MuthuKumaran:
+    """
+    Computer Science & AI Researcher · Core Developer
+    Specialized in Reinforcement Learning, Quantum Heuristics & Agentic Systems.
+    """
     def __init__(self):
         self.handle      = "kkm121"
         self.role        = "Computer Science Student · AI Explorer"
-        self.focus_areas = ["Reinforcement Learning", "Quantum-Inspired Algorithms",
-                            "Multi-Agent AI Systems", "RAG Pipelines", "Systems Optimization"]
+        self.focus_areas = [
+            "Reinforcement Learning",       # Vision restoration & dynamic policy optimization
+            "Quantum-Inspired Algorithms",  # Non-convex heuristic sampling & search spaces
+            "Multi-Agent AI Systems",       # Graph-based autonomous agent orchestration
+            "RAG Pipelines",                # Dense vector retrieval & hybrid indexing
+            "Systems Optimization"          # Heterogeneous inference runtime acceleration
+        ]
         self.open_source = ["OpenVINO", "LangGraph", "PyTorch"]
 
-    def current_mission(self):
+    def current_mission(self) -> str:
+        # Bridging fundamental machine intelligence research with scalable production systems
         return "Bridging theoretical AI research with production-grade engineering."
 ```
 
