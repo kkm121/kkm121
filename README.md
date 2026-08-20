@@ -132,15 +132,26 @@ class MuthuKumaran:
 
 <br/>
 
-<!-- ═══════════════════════ ACTIVITY & ANALYTICS (BALANCED 2-ROW GRID) ═══════════════════════ -->
+<!-- ═══════════════════════ ACTIVITY & ANALYTICS (PERFECTLY ALIGNED 2-COLUMN GRID) ═══════════════════════ -->
 # Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true&hide_rank=true" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" height="180" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=6" height="180" alt="Top Languages" />
+
+<table border="0" align="center">
+  <tr border="0">
+    <td border="0" align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkm121&show_icons=true&theme=tokyonight&bg_color=0a0f1e&border_color=38bdf8&title_color=38bdf8&icon_color=818cf8&text_color=e0f2fe&include_all_commits=true&count_private=true&hide_rank=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td border="0" align="center" width="50%">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kkm121&theme=tokyonight&background=0a0f1e&border=818cf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="100%" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkm121&layout=compact&theme=tokyonight&bg_color=0a0f1e&border_color=0284c7&title_color=38bdf8&text_color=e0f2fe&langs_count=6" width="49%" alt="Top Languages" />
+
 </div>
 
 <br/>
